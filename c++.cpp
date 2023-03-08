@@ -3,9 +3,9 @@ using namespace std;
 int main()
 {int i =1;
 cout<<"test";
-while (i<=3)
+while (i<=5)
   { int j=1;
-    while ( j<=3)
+    while ( j<=6)
     { cout<<i;
     j++;
     }
